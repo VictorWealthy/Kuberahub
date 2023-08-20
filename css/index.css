@@ -1,0 +1,22 @@
+.nav-logo{
+    width: 250px;
+}
+
+.footer-logo{
+    width: 250px;
+}
+
+
+
+
+.page-footer{
+    background-color: rgb(2, 70, 97);
+}
+
+
+@media screen and (max-width: 768px) {
+    .title-section{
+        font-size: 20px;
+    }
+    
+}
